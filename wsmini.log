@@ -1527,3 +1527,80 @@
 [26-03-26 20:41:43] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
 [26-03-26 20:41:43] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
 [26-03-26 20:41:43] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:48] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:41:48] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:41:48] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:48] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:41:48] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:48] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:48] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:53] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:41:53] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:41:53] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:53] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:41:53] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:53] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:53] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:58] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:41:58] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:41:59] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:59] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:41:59] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:59] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:41:59] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:03] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:42:03] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:03] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:03] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:03] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:03] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:03] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:08] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:42:08] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:08] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:08] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:08] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:08] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:08] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:13] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:42:13] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:13] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:13] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:13] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:13] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:13] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:18] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:42:18] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:18] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:18] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:19] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:19] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:19] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:23] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:42:23] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:23] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:23] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:23] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:23] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:23] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:28] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:42:28] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:28] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:28] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:28] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:28] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:28] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:33] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:42:33] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:33] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:33] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:33] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:33] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:33] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:38] [INFO] [port_mgr] [port_manager.c:184] ----------------------------- HEALTH CHECK -----------------------------
+[26-03-26 20:42:38] [INFO] [port_mgr] [port_manager.c:188] port_idx=0 (LINE) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:38] [INFO] [port_mgr] [port_manager.c:188] port_idx=1 (LINE) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:38] [INFO] [port_mgr] [port_manager.c:188] port_idx=2 (CLIENT) admin=Enabled fault=None oper=UP received=0 dropped=0
+[26-03-26 20:42:38] [INFO] [port_mgr] [port_manager.c:188] port_idx=3 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:38] [INFO] [port_mgr] [port_manager.c:188] port_idx=4 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0
+[26-03-26 20:42:38] [INFO] [port_mgr] [port_manager.c:188] port_idx=5 (CLIENT) admin=Disabled fault=None oper=DOWN received=0 dropped=0

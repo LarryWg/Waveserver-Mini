@@ -179,6 +179,7 @@ bool dispatch(const udp_message_t *req, udp_message_t *resp)
     return send_reply;
 }
 
+// Feat6: emit a full point-in-time snapshot of every port for periodic health reporting.
 void log_health_check(void)
 {
     LOG(LOG_INFO, "----------------------------- HEALTH CHECK -----------------------------");
@@ -214,6 +215,7 @@ int main()
         return 1;
     }
 
+    // Feat6: track the last time we wrote the 5-second health-check block.
     time_t last_health_check = time(NULL);
 
     while (true)
@@ -222,6 +224,8 @@ int main()
         FD_ZERO(&read_fds);
         FD_SET(server_socket, &read_fds);
 
+        // Feat6: use a short timed poll instead of blocking forever so the
+        // periodic health check can still run when no UDP requests arrive.
         struct timeval wait_time = {.tv_sec = 1, .tv_usec = 0};
         int ready = select(server_socket + 1, &read_fds, NULL, NULL, &wait_time);
         if (ready < 0)
@@ -250,6 +254,7 @@ int main()
             }
         }
 
+        // Feat6: log port state every 5 seconds at INFO level.
         time_t now = time(NULL);
         if (now - last_health_check >= 5)
         {
